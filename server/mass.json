@@ -1,0 +1,15 @@
+{
+    "mcpServers":{
+        "mass": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "server/mass.py"
+      ]
+    }
+}
+}
